@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    color: #666;
+    margin-top: 0;
+}
+
+.links {
+    margin-top: 10px;
+}
+
+.links a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+section {
+    margin-top: 30px;
+}
+
+.project-box {
+    border: 1px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    color: #777;
+    border-radius: 6px;
+    background-color: #fafafa;
+}
+
+.trivia {
+    font-style: italic;
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #777;
+}
